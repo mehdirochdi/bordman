@@ -24,8 +24,8 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/fonts/font-awesome/css/font-awesome.css">
 	<link rel="stylesheet" href="css/fonts/entypo/css/entypo.css">
-	<link rel="stylesheet" href="vendor/owl-carousel/owl.carousel.css" media="screen">
-	<link rel="stylesheet" href="vendor/owl-carousel/owl.theme.css" media="screen">
+	<!-- <link rel="stylesheet" href="vendor/owl-carousel/owl.carousel.css" media="screen">
+	<link rel="stylesheet" href="vendor/owl-carousel/owl.theme.css" media="screen"> -->
 	<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.css" media="screen">
 	<link rel="stylesheet" href="vendor/flexslider/flexslider.css" media="screen">
 	<link rel="stylesheet" href="vendor/job-manager/frontend.css" media="screen">

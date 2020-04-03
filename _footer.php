@@ -29,7 +29,7 @@
 	<script src="vendor/isotope/jquery.isotope.sloppy-masonry.min.js"></script>
 	<script src="vendor/isotope/jquery.imagesloaded.min.js"></script>
 	<script src="vendor/magnific-popup/jquery.magnific-popup.js"></script>
-	<script src="vendor/owl-carousel/owl.carousel.min.js"></script>
+	<!-- <script src="vendor/owl-carousel/owl.carousel.min.js"></script> -->
 	<script src="vendor/jquery.fitvids.js"></script>
 	<script src="vendor/jquery.appear.js"></script>
 	<script src="vendor/jquery.stellar.min.js"></script>
